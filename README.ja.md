@@ -1,9 +1,7 @@
-# CygTerm - Yet another Cygwin console
-
-**ターミナル・エミュレータによる Cygwin コンソール**  
+# <img src="cygterm-logo.gif" align="absmiddle" width="150"> ターミナル・エミュレータによる Cygwin コンソール
 v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.
 
-(README.ja.md)= [English] / Japanese =
+= [English](README.md) / Japanese =
 
 ---
 
