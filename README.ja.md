@@ -3,8 +3,6 @@ v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.
 
 = [English](README.md) / Japanese =
 
----
-
 ## CygTermの概要
 
 Cygwinでは、DOS窓上で bash などのシェルが使えるようになっていますね。しかしDOS窓ではサイズの制限やコピー&ペーストなど、いろいろ使いにくいです。普段UnixマシンをTelnetで使っている人は多いと思います。Cygwinもそれと同じように使いたい、つまり VT100 のターミナル・エミュレータで操作したいものです。
