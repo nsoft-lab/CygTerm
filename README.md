@@ -1,7 +1,7 @@
 # CygTerm - Yet another Cygwin console
 
 **Cygwin console with a terminal emulator**  
-v1.08a - 2017/03/31 Copyright(C) 2000-2017 NSym.
+v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.
 
 = English / [Japanese](index.html) =
 
