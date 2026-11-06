@@ -43,13 +43,13 @@ Source Files
 
 | File | Description |
 | :--- | :--- |
-| `README` | description file |
-| `README-j` | original README in Japanese |
 | `Makefile` | MAKEFILE for installation |
 | `cygterm.cc` | program source code |
 | `cygterm.cfg` | configuration file |
+| `cygterm_here.reg` | sample registry file for Explorer right click |
 
 [download cygterm108a.tgz (about 14kb)](cygterm108a.tgz)
+[Download cygterm108a.tgz (about 14kb)](https://github.com/nsoft-lab/CygTerm/releases/download/v1.08a/cygterm108a.tgz)
 
 > **--- License ---**  
 > CygTerm is a free software distributed under the terms of the **GNU General Public License (GPL)** published by Free Software Foundation. See [GPL (http://www.gnu.org/copyleft/gpl.html)](http://www.gnu.org/copyleft/gpl.html).  
