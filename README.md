@@ -1,6 +1,6 @@
 <p>
   <img src="cygterm-logo.gif" align="absmiddle">
-  <b>Cygwin console with a terminal emulator</b><br>
+  <b><span style="font-size:1.5em">Cygwin console with a terminal emulator</span></b><br>
   v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.
 </p>
 
