@@ -1,3 +1,7 @@
+# tar balls
+*.tgz
+*.tar.gz
+
 # Prerequisites
 *.d
 
