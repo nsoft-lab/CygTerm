@@ -1,5 +1,5 @@
 <p><img src="cygterm-logo.gif" align="absmiddle">
-<b>Cygwin console with a terminal emulator<br>
+<big>Cygwin console with a terminal emulator</big><br>
 <small>v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.</small>
 </p>
 
