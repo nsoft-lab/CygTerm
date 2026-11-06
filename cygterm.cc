@@ -22,9 +22,6 @@
 //
 //   Using Cygwin with a terminal emulator.
 //   Written by NSym.
-//                         *** Web Pages ***
-//  (English) http://www.dd.iij4u.or.jp/~nsym/cygwin/cygterm/index-e.html
-// (Japanese) http://www.dd.iij4u.or.jp/~nsym/cygwin/cygterm/index.html
 //
 static char Program[] = "CygTerm";
 static char Version[] = "version 1.08 (2015/08/16)";
