@@ -1,5 +1,5 @@
-# <img src="cygterm-logo.gif" align="absmiddle"> Cygwin console with a terminal emulator
-v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.
+<h1><img src="cygterm-logo.gif" align="absmiddle"> Cygwin console with a terminal emulator</h1>
+<p>v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.</p>
 
 = English / [Japanese](README.ja.md) =
 
