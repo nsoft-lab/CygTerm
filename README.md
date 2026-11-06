@@ -3,7 +3,7 @@
 **Cygwin console with a terminal emulator**  
 v1.08a - 2017/03/31 &nbsp; Copyright(C) 2000-2017 NSym.
 
-= [Japanese](index.html) / English =
+= English / [Japanese](index.html) =
 
 ## Overview of CygTerm
 
